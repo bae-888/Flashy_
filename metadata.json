@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Flashy - Photography Platform",
+  "description": "A platform to connect users with professional photographers in Korea. Users can browse photographers by category, book sessions, chat with artists, and manage their appointments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
